@@ -4,7 +4,7 @@
 //
 //  only Async is implemented
 
-`default_nettype none
+//`default_nettype none
 
 module i8251(
 
