@@ -1,3 +1,9 @@
+-=(PMD85_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+Fixed: Added the missing monit2A.mif in /rtl
+
 # PMD85 v2
 ![PMD image](/pictures/PMD_th.jpg)  
 Computer [PMD 85](https://en.wikipedia.org/wiki/PMD_85) is [Czechoslovakian](https://en.wikipedia.org/wiki/Czechoslovakia) 8-bit computer produced by [Tesla](https://en.wikipedia.org/wiki/Tesla_(Czechoslovak_company)) Piešťany and Tesla Bratislava. First version was designed by Roman Kišš.
