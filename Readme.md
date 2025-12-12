@@ -1,3 +1,10 @@
+-=(PMD85_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+Fixed: Added the missing monit2A.mif in /rtl
+
+___
 # PMD85 v2
 ![PMD image](/pictures/PMD_th.jpg)  
 Computer [PMD 85](https://en.wikipedia.org/wiki/PMD_85) is [Czechoslovakian](https://en.wikipedia.org/wiki/Czechoslovakia) 8-bit computer produced by [Tesla](https://en.wikipedia.org/wiki/Tesla_(Czechoslovak_company)) Piešťany and Tesla Bratislava. First version was designed by Roman Kišš.
@@ -97,4 +104,5 @@ Here is simple picture how you should wire your MISTer to UART-to-USB converter.
 * https://www.schotek.cz/pmd/
 
 Some of them are only in Czech or Slovak, but Google translator is your friend :)
+
 
