@@ -1,3 +1,10 @@
+-=(PMD85_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+Fixed: Added the missing monit2A.mif in /rtl - Added pll folder in /rtl
+
+___
 # PMD85 v2A+v3
 [![PMD image](/pictures/PMD_th.jpg)](/pictures/PMD85.jpg)  
 
@@ -83,5 +90,6 @@ Old video is still available on https://youtu.be/VVukIzzWiKY
 * https://www.sapi.cz/pmd-85/pmd-85.php
 * https://www.schotek.cz/pmd/
 * [https://sites.google.com/site/computerresearchltd/home/staré-stroje/tesla-pmd-85](https://sites.google.com/site/computerresearchltd/home/star%C3%A9-stroje/tesla-pmd-85)
+
 
 
