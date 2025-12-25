@@ -1,4 +1,4 @@
-`default_nettype none
+//`default_nettype none
 
 module i8255(
    input  wire [7:0] PA_In,

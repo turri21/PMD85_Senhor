@@ -1,4 +1,4 @@
-`default_nettype none
+//`default_nettype none
 
 module i8224(
    output wire osc,       // oscilator output - same as clk

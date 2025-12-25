@@ -20,7 +20,7 @@
 // altera message_off 10240
 
 
-`default_nettype none
+//`default_nettype none
 
 module k580vi53
 (

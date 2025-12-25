@@ -1,4 +1,4 @@
-`default_nettype none
+//`default_nettype none
 
 module i8228(
    output wire       memr_n,            // Memory Read
